@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    #0097A7<color name="colorPrimary">#0097A7</color>
+    <color name="colorPrimaryDark">#006064</color>
+    <color name="colorAccent">#829356</color>
+
+    <!--drawable => list_item_background.xml colors-->
+    <color name="gradientStartColor">#3C6478</color>
+    <color name="gradientCenterColor">#43ABC9</color>
+    <color name="gradientEndColor">#B5C689</color>
+
+    <!--drawable => main_background.xml colors-->
+    <color name="gradientStartColor2">#00ACC1</color>
+    <color name="gradientCenterColor2">#00E5FF</color>
+    <color name="gradientEndColor2">#18FFFF</color>
+
+    <!--drawable => sub_main_background.xml colors-->
+    <color name="gradientStartColor3">#E0F7FA</color>
+    <color name="gradientCenterColor3">#B2EBF2</color>
+    <color name="gradientEndColor3">#80DEEA</color>
+
+    #E0F7FA
+    100
+    #B2EBF2
+    200
+    #80DEEA
+</resources>

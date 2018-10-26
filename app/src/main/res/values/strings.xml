@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current product [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <string name="category_product">Product Details</string>
+    <string name="category_supplier">Supplier Details</string>
+
+    <!-- chooser text for app that would be used in sending mail to order more goods-->
+    <string name="email_chooser">Send with...</string>
+    <string name="currency">$</string>
+
+    <string name="delete_product">Delete Product</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the all products [CHAR LIMIT=NONE] -->
+    <string name="delete_all_products_dialog_msg">Are you sure you want to delete all products from the database</string>
+
+    <!-- Dialog message to ask the user to confirm deleting a product [CHAR LIMIT=NONE] -->
+    <string name="delete_single_product_dialog_msg">Are you sure you want to delete this product</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current product [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <string name="empty_view_image">Nothing To See Here</string>
+
+    <!-- subject for email to be sent to order more goods-->
+    <string name="email_subject">New Order Placement</string>
+    <!-- Activity label for adding a new product -->
+    <string name="editor_add_product">Add a Product</string>
+
+    <!-- Activity label for adding a new product -->
+    <string name="editor_edit_product">Edit Product</string>
+
+    <!-- Toast message for incomplete data entry -->
+    <string name="error_incomplete_data">Fill in required fields</string>
+
+    <!-- Toast message to be displayed when attempting to make a call when the suppliers phone number is unavailable -->
+    <string name="error_phone_number_unavailable">supplier number unavailable, send a mail instead</string>
+
+    <!-- Toast message to be displayed when atempting to send a mail when the suppliers mail is unavailable -->
+    <string name="error_mail_unavailable">supplier mail unavailable, place a call instead</string>
+
+    <!-- Toast message for incomplete supplier detail -->
+    <string name="editor_incomplete_supplier_details">Please input Supplier email or Phone Number</string>
+
+    <!-- Toast message for error with saving a product -->
+    <string name="editor_insert_product_failed">Error with saving Product</string>
+
+    <!-- Toast message for error with saving a product -->
+    <string name="editor_insert_product_successful">Product Saved</string>
+
+    <!-- Toast message in editor when current product was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_product_successful">Product updated</string>
+
+    <!-- Toast message in editor when current product has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_product_failed">Error with updating product</string>
+
+
+    <string name="hint_product_name">Product Name</string>
+    <string name="hint_product_price">Price</string>
+    <string name="hint_product_quantity">quantity</string>
+    <string name="hint_supplier_name">Supplier Name</string>
+    <string name="hint_supplier_mail">E-mail</string>
+    <string name="hint_supplier_phone">Phone Number</string>
+
+    <string name="increase">+</string>
+
+    <!-- Type of files which can be selected (Add photo) -->
+    <string name="intent_type">image/*</string>
+
+    <!-- Dialog button text for the option to keep editing the current pet [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="menu_item_delete_records">Delete Records</string>
+
+    <string name="order_from_supplier">Order for more</string>
+
+    <!-- Message displayed on successful deletion of all products -->
+    <string name="overview_delete_all_products_successfull">You have successfully deleted all products</string>
+
+    <!-- Message displayed on failed deletion of all products -->
+    <string name="overview_delete_all_products_failed">Error with deleting all products</string>
+
+    <!-- Message displayed on attempt to clear empty database -->
+    <string name="overview_delete_all_products_unavailable">Nothing to delete</string>
+
+
+    <string name="product_image_content_description">product image</string>
+    <string name="product_name">Full Product Name</string>
+    <string name="product_price">30</string>
+
+    <string name="quantity_left">Quantity Left: </string>
+    <string name="quantity_left_amount">34</string>
+
+    <string name="reduce">-</string>
+
+    <!-- Label hint for the add photo section. Visible if new product -->
+    <string name="select_image">Select image</string>
+
+    <!-- message displayed when an attempt is made to order an out of stock product-->
+    <string name="product_out_of_stock">Item is out of stock</string>
+
+    <!-- upload image button content description -->
+    <string name="upload_image_button">Upload image</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+
+</resources>
